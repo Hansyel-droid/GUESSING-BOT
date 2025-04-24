@@ -1,6 +1,6 @@
 import socket
 
-host = "192.168.0.43"  
+host = "10.0.14.240"  
 port = 7777
 
 def get_difficulty_choice():
